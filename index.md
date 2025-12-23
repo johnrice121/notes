@@ -6,7 +6,7 @@ Welcome to the central index for all reflections and notes. This index will help
 
 ### Technology & Software Engineering
 
-- [Human–AI Symbiosis](./human-ai-symbiosis.md)
+- [Human–AI Symbiosis](./human_ai_symbiosis.md)
 
 ### Health and Movement Science
 
