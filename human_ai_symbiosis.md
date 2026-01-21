@@ -1,4 +1,14 @@
+<!--
+title: Notes on Human–AI Symbiosis, Responsibility, and Alignment
+created: 2025-12-23
+last_updated: 2026-01-21
+status: stable
+tags: human-ai-symbiosis, ethics, responsibility, alignment
+-->
+
 # Notes on Human–AI Symbiosis, Responsibility, and Alignment
+
+[← Back to Index](./index.md)
 
 ## Context
 

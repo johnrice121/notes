@@ -1,6 +1,8 @@
 # Index of Notes
 
-Welcome to the central index for all reflections and notes. This index will help you navigate through the various topics and themes explored here.
+Welcome to the central index for reflections and working notes.
+These documents are not polished essays, but evolving artifacts used to clarify thinking over time.
+Some notes may be exploratory drafts; others represent more stable viewpoints.
 
 ## Categories
 
@@ -10,12 +12,12 @@ Welcome to the central index for all reflections and notes. This index will help
 
 ### Health and Movement Science
 
-- Stay tuned for upcoming notes in this category.
+- No notes yet.
 
 ### Pragmatic Futurism
 
-- Stay tuned for upcoming notes in this category.
+- No notes yet.
 
 ### Ethics, Virtue, and Meaning
 
-- Stay tuned for upcoming notes in this category.
+- [Age Verification as an Ethical Software Architecture Concern](./age_verification_ethics.md)
