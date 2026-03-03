@@ -10,9 +10,14 @@ tags: ethics, software-architecture, human-ai-symbiosis
 
 [← Back to Index](./index.md)
 
+Last updated: 2026-01-21
+
 ## Context
 
-With the rapid adoption of AI-powered systems and consumer platforms, age-verification is emerging as a critical software architecture requirement backed by public policy and legal enforcement. While systems like internal tools at my workplace may not require age checks, many of our customers and the broader industry are hardening their identity and policy enforcement layers in response to regulatory pressure.
+With the rapid adoption of AI-powered systems and consumer platforms, age-verification is emerging as a critical
+software architecture requirement backed by public policy and legal enforcement. While systems like internal tools
+at my workplace may not require age checks, many of our customers and the broader industry are hardening their
+identity and policy enforcement layers in response to regulatory pressure.
 
 Age-verification illustrates a broader pattern in software design:
 
@@ -24,13 +29,15 @@ This raises foundational questions about **responsibility, transparency, and hum
 
 ## Age Verification: More Than a Compliance Checkbox
 
-Traditional views treat age as a simple attribute in a user profile. Modern regulation — especially in AI, social platforms, and content delivery — pushes systems toward *algorithmic decisions with real consequences*:
+Traditional views treat age as a simple attribute in a user profile. Modern regulation — especially in AI, social
+platforms, and content delivery — pushes systems toward *algorithmic decisions with real consequences*:
 
 - Blocking or limiting features
 - Exposure to potentially harmful content
 - Legal liability for failures
 
-These requirements require us to think about **where moral authority resides** in a system, and how design choices affect ethical outcomes.
+These requirements require us to think about **where moral authority resides** in a system, and how design choices
+affect ethical outcomes.
 
 ---
 
@@ -102,6 +109,8 @@ Software is an amplifier of agency — for better or worse.
 
 ## Conclusion
 
-Age-verification isn’t just a compliance problem. It’s a *microcosm* of how software systems are now being asked to enforce norms, allocate risks, and make decisions with ethical dimensions.
+Age-verification isn’t just a compliance problem. It’s a *microcosm* of how software systems are now being asked
+to enforce norms, allocate risks, and make decisions with ethical dimensions.
 
-The challenge for architects and engineers is not just *what checks to implement*, but *how those checks shape the agency and accountability of the humans impacted by them.*
+The challenge for architects and engineers is not just *what checks to implement*, but *how those checks shape
+the agency and accountability of the humans impacted by them.*

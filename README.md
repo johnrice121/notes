@@ -6,7 +6,8 @@ Notes, thoughts, and reflections on technology, life, and practical futurism.
 
 This repository is a personal space for capturing evolving ideas and reflections at the intersection of:
 
-- **Technology & software engineering**, covering reliable system architecture, AI-augmented workflows, and human–machine collaboration
+- **Technology & software engineering**, covering reliable system architecture, AI-augmented workflows, and
+  human–machine collaboration
 - **Health and movement science**, exploring exercise science, biomechanics, and human performance
 - **Pragmatic futurism**, focusing on practical trends, emerging tools, and how humans navigate change
 - **Ethics, virtue, and meaning**, especially as they relate to technology and daily life
@@ -31,7 +32,8 @@ Connect with me on LinkedIn: [https://www.linkedin.com/in/johnrice121/](https://
 - B.S. in *Computer Science*
 
 My interests span **reliable software systems**, **AI tooling and symbiosis**, and **human movement & health**.
-I strive to bring practical judgment, moral clarity, and thoughtful reflection to the way technology is used in work and life.
+I strive to bring practical judgment, moral clarity, and thoughtful reflection to the way technology is used in
+work and life.
 
 ## Disclaimer
 
@@ -40,5 +42,6 @@ All content provided here is for informational purposes only and reflects my per
 
 ## License
 
-This project is licensed under the **MIT License** — feel free to read, reference, or quote material here, with **attribution appreciated**.
+This project is licensed under the **MIT License** — feel free to read, reference, or quote material here, with
+**attribution appreciated**.
 See the [LICENSE](LICENSE) file for more details.

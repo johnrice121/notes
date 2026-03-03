@@ -10,11 +10,16 @@ tags: human-ai-symbiosis, ethics, responsibility, alignment
 
 [← Back to Index](./index.md)
 
+Last updated: 2026-01-21
+
 ## Context
 
-Recent advances in large language models (LLMs), reasoning models, and AI agents have accelerated conversations about intelligence, automation, and the future of work. While technical capability has advanced rapidly, questions about **human responsibility, moral agency, and judgment** remain unresolved.
+Recent advances in large language models (LLMs), reasoning models, and AI agents have accelerated conversations
+about intelligence, automation, and the future of work. While technical capability has advanced rapidly, questions
+about **human responsibility, moral agency, and judgment** remain unresolved.
 
-These notes are an attempt to think clearly — and pragmatically — about how humans and AI systems should coexist, collaborate, and evolve together.
+These notes are an attempt to think clearly — and pragmatically — about how humans and AI systems should coexist,
+collaborate, and evolve together.
 
 This is not a prediction of the future. It is an exploration of **pressures, boundaries, and choices**.
 
